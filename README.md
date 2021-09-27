@@ -1,1 +1,2 @@
 # weather-application
+This is a weather application. This application works when you input a city you are given the weather for the next following days. This application was made using HTML, JavaScript, and CSS.
